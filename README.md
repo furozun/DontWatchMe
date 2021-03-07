@@ -1,5 +1,5 @@
 # DontWatchMe
-The repository shared that how to anti-watch on internet.
+The repository sharehow to anti-watch on internet.
 
 ### How to read
 - tool
